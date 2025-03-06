@@ -8,3 +8,4 @@
 ![image](https://github.com/user-attachments/assets/a1ed1d44-1de5-454c-8163-c7cbdd469b4c)
 # Курс валют
 ![image](https://github.com/user-attachments/assets/7a1d022c-99ef-4f6f-a921-07287159688c)
+![image](https://github.com/user-attachments/assets/7c6de0bc-c4a2-4217-82b2-7e3823f5386b)
