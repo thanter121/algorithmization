@@ -6,4 +6,5 @@
 ![image](https://github.com/user-attachments/assets/8c186c9c-153b-429e-b179-68adb7e96e39)
 # Генератор паролей
 ![image](https://github.com/user-attachments/assets/a1ed1d44-1de5-454c-8163-c7cbdd469b4c)
-
+# Курс валют
+![image](https://github.com/user-attachments/assets/7a1d022c-99ef-4f6f-a921-07287159688c)
