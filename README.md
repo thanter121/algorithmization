@@ -9,3 +9,5 @@
 # Курс валют
 ![image](https://github.com/user-attachments/assets/7a1d022c-99ef-4f6f-a921-07287159688c)
 ![image](https://github.com/user-attachments/assets/7c6de0bc-c4a2-4217-82b2-7e3823f5386b)
+# Авторизация
+![image](https://github.com/user-attachments/assets/ed0115b7-bbd9-4665-a1a4-fcfeec2c4c00)
