@@ -11,3 +11,4 @@
 ![image](https://github.com/user-attachments/assets/7c6de0bc-c4a2-4217-82b2-7e3823f5386b)
 # Авторизация
 ![image](https://github.com/user-attachments/assets/ed0115b7-bbd9-4665-a1a4-fcfeec2c4c00)
+![image](https://github.com/user-attachments/assets/33cc57fa-52cf-487f-8bc5-e43a06e2bd8b)
