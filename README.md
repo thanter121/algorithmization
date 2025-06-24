@@ -14,14 +14,10 @@
 ![image](https://github.com/user-attachments/assets/33cc57fa-52cf-487f-8bc5-e43a06e2bd8b)
 ![image](https://github.com/user-attachments/assets/8f2f635d-4866-4700-8ec7-0e4654374af3)
 # шпоры по базовым понятиям алгоритмизации
-базовые структуры алгоритмов:
-Базовые структуры алгоритмов включают три конструкции: следование, ветвление и цикл. Эти структуры позволяют создавать алгоритмы, решающие различные задачи
-Следование -
+Базовые структуры алгоритмов:базовые структуры алгоритмов включают три конструкции: следование, ветвление и цикл. Эти структуры позволяют создавать алгоритмы, решающие различные задачи
 ![image](https://github.com/user-attachments/assets/be53fedd-6b6d-4573-9fb2-70d5b815eb5a)
 ![image](https://github.com/user-attachments/assets/08cc1d0f-231f-4988-9326-1b49f9f4c8de)
-Ветвление -
 ![image](https://github.com/user-attachments/assets/8c6844ea-edeb-497a-96ba-e234166f907f)
-Цикл -
 ![image](https://github.com/user-attachments/assets/e326b21a-d1bf-453a-816b-9978eb2e536a)
 
 
