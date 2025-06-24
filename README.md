@@ -19,5 +19,9 @@
 ![image](https://github.com/user-attachments/assets/08cc1d0f-231f-4988-9326-1b49f9f4c8de)
 ![image](https://github.com/user-attachments/assets/8c6844ea-edeb-497a-96ba-e234166f907f)
 ![image](https://github.com/user-attachments/assets/e326b21a-d1bf-453a-816b-9978eb2e536a)
+# типы хэша
+![image](https://github.com/user-attachments/assets/7f4984bb-df11-4e18-8f6f-61452bf0f18e)
+![image](https://github.com/user-attachments/assets/8cc1eda3-21bf-4123-ab4f-fb45338fea15)
+![image](https://github.com/user-attachments/assets/66a2bc0e-ce21-4eea-96b7-5d898015a7b6)
 
 
