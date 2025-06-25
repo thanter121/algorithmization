@@ -23,5 +23,11 @@
 ![image](https://github.com/user-attachments/assets/7f4984bb-df11-4e18-8f6f-61452bf0f18e)
 ![image](https://github.com/user-attachments/assets/8cc1eda3-21bf-4123-ab4f-fb45338fea15)
 ![image](https://github.com/user-attachments/assets/66a2bc0e-ce21-4eea-96b7-5d898015a7b6)
+# базовый синтаксис Python
+![image](https://github.com/user-attachments/assets/6fbdccf6-8bd5-4b76-baec-3deb22edb03d)
+![image](https://github.com/user-attachments/assets/5f5f46a1-b76d-464b-b14b-afa8f8da6533)
+![image](https://github.com/user-attachments/assets/148b9809-8138-47ac-ba84-038af8a2b639)
+![image](https://github.com/user-attachments/assets/91c670b9-4786-474a-aa2e-df040ae5e9d9)
+
 
 
